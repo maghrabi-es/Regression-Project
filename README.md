@@ -19,3 +19,7 @@ Predict (free or paid courses, subscribers).
 Tools:
 
 I will use python because it contains libraries for Web scraping tools (BeautifulSoup, Selenium,etc ). also for exploratory analysis and data cleaning will use (pandas, Matplotlib, NumPy ,etc.).
+
+
+
+#predictive-analytics
