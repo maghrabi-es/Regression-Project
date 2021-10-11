@@ -9,7 +9,6 @@ Udemy help organizations of all types and sizes prepare for the path ahead where
 Question/need:
 
 Try to predict the number of subscribers for a course? 
-Try to predict free courses or paid courses ?
 
 Data Description:
 
